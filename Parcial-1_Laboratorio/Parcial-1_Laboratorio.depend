@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1602808784 source:c:\users\hernan\desktop\parcial-1_laboratorio_sanchez\parcial-1_laboratorio\electrodomesticos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"REPARACION.h"
+	"ELECTRODOMESTICOS.h"
+
+1602778698 c:\users\hernan\desktop\parcial-1_laboratorio_sanchez\parcial-1_laboratorio\reparacion.h
+
+1602807583 c:\users\hernan\desktop\parcial-1_laboratorio_sanchez\parcial-1_laboratorio\electrodomesticos.h
+
+1602809021 source:c:\users\hernan\desktop\parcial-1_laboratorio_sanchez\parcial-1_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"REPARACION.h"
+	"ELECTRODOMESTICOS.h"
+
+1602804166 source:c:\users\hernan\desktop\parcial-1_laboratorio_sanchez\parcial-1_laboratorio\reparacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"REPARACION.h"
+	"ELECTRODOMESTICOS.h"
+
+1602794756 source:c:\users\pc\downloads\parcial-1_laboratorio_sanchez-master\parcial-1_laboratorio_sanchez-master\parcial-1_laboratorio\reparacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"REPARACION.h"
+	"ELECTRODOMESTICOS.h"
+
+1603202477 c:\users\pc\downloads\parcial-1_laboratorio_sanchez-master\parcial-1_laboratorio_sanchez-master\parcial-1_laboratorio\reparacion.h
+
+1603209355 c:\users\pc\downloads\parcial-1_laboratorio_sanchez-master\parcial-1_laboratorio_sanchez-master\parcial-1_laboratorio\electrodomesticos.h
+
+1603212591 source:c:\users\pc\downloads\parcial-1_laboratorio_sanchez-master\parcial-1_laboratorio_sanchez-master\parcial-1_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"REPARACION.h"
+	"ELECTRODOMESTICOS.h"
+
+1603213138 source:c:\users\pc\downloads\parcial-1_laboratorio_sanchez-master\parcial-1_laboratorio_sanchez-master\parcial-1_laboratorio\electrodomesticos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"REPARACION.h"
+	"ELECTRODOMESTICOS.h"
+
+1603229573 source:c:\users\hernan\desktop\nuevo abm a modificar\parcial-1_laboratorio_sanchez-master\parcial-1_laboratorio\electrodomesticos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"REPARACION.h"
+	"ELECTRODOMESTICOS.h"
+
+1603236393 c:\users\hernan\desktop\nuevo abm a modificar\parcial-1_laboratorio_sanchez-master\parcial-1_laboratorio\reparacion.h
+
+1603228889 c:\users\hernan\desktop\nuevo abm a modificar\parcial-1_laboratorio_sanchez-master\parcial-1_laboratorio\electrodomesticos.h
+
+1603236571 source:c:\users\hernan\desktop\nuevo abm a modificar\parcial-1_laboratorio_sanchez-master\parcial-1_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"REPARACION.h"
+	"ELECTRODOMESTICOS.h"
+
+1603236393 source:c:\users\hernan\desktop\nuevo abm a modificar\parcial-1_laboratorio_sanchez-master\parcial-1_laboratorio\reparacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"REPARACION.h"
+	"ELECTRODOMESTICOS.h"
+
+1603366386 source:c:\users\hernan\desktop\nuevo abm a modificar\copia\parcial-1_laboratorio\electrodomesticos.c
+	"ELECTRODOMESTICOS.h"
+	"REPARACION.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1603288291 c:\users\hernan\desktop\nuevo abm a modificar\copia\parcial-1_laboratorio\reparacion.h
+
+1603366350 c:\users\hernan\desktop\nuevo abm a modificar\copia\parcial-1_laboratorio\electrodomesticos.h
+
+1603366504 source:c:\users\hernan\desktop\nuevo abm a modificar\copia\parcial-1_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"REPARACION.h"
+	"ELECTRODOMESTICOS.h"
+	"repElectroService.h"
+
+1603286858 source:c:\users\hernan\desktop\nuevo abm a modificar\copia\parcial-1_laboratorio\reparacion.c
+	"REPARACION.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1603294964 c:\users\hernan\desktop\nuevo abm a modificar\copia\parcial-1_laboratorio\repelectroservice.h
+
+1603367119 source:c:\users\hernan\desktop\nuevo abm a modificar\copia\parcial-1_laboratorio\repelectroservice.c
+	"ELECTRODOMESTICOS.h"
+	"REPARACION.h"
+	<stdio.h>
+	<stdlib.h>
+
+1603378450 source:c:\users\hernan\desktop\nuevo abm a modificar\copia - clientes\parcial-1_laboratorio\electrodomesticos.c
+	"ELECTRODOMESTICOS.h"
+	"REPARACION.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1603410373 c:\users\hernan\desktop\nuevo abm a modificar\copia - clientes\parcial-1_laboratorio\electrodomesticos.h
+
+1603407976 c:\users\hernan\desktop\nuevo abm a modificar\copia - clientes\parcial-1_laboratorio\reparacion.h
+
+1603409590 source:c:\users\hernan\desktop\nuevo abm a modificar\copia - clientes\parcial-1_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"REPARACION.h"
+	"ELECTRODOMESTICOS.h"
+	"repElectroService.h"
+
+1603379563 c:\users\hernan\desktop\nuevo abm a modificar\copia - clientes\parcial-1_laboratorio\repelectroservice.h
+
+1603402693 source:c:\users\hernan\desktop\nuevo abm a modificar\copia - clientes\parcial-1_laboratorio\repelectroservice.c
+	"ELECTRODOMESTICOS.h"
+	"REPARACION.h"
+	<stdio.h>
+	<stdlib.h>
+
+1603371107 source:c:\users\hernan\desktop\nuevo abm a modificar\copia - clientes\parcial-1_laboratorio\reparacion.c
+	"REPARACION.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
