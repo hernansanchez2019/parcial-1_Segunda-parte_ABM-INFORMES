@@ -129,7 +129,9 @@ void informe8(Eservicios reparacion[], int cantService, Eelectrodomestico aparat
 void informe4(Ereparacion arreglo[], int canTarreglo, Eelectrodomestico aparato[], int tam)
 {
 
-    printf("\tListar los Electrodomesticos que no tuvieron reparaciones");
+    printf("\tListar los Electrodomesticos que no tuvieron reparaciones\n");
+
+    printf("SERIE   |    MODELO  \n");
 
 
     int i;
@@ -140,7 +142,7 @@ void informe4(Ereparacion arreglo[], int canTarreglo, Eelectrodomestico aparato[
     {
         for(j=0 ; j < tam ; j++)
         {
-            if(arreglo[i].estadoReparacion==LIBRE)
+            if(arreglo[i].estadoReparacion==LIBRE && aparato[j].estadoElectro==OCUPADO)
             {
                 printf("%8d   |   %8d\n", aparato[j].serie, aparato[j].modelo);
             }
