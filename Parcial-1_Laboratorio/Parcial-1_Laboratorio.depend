@@ -108,24 +108,25 @@
 	<stdio.h>
 	<stdlib.h>
 
-1603378450 source:c:\users\hernan\desktop\nuevo abm a modificar\copia - clientes\parcial-1_laboratorio\electrodomesticos.c
+1603411630 source:c:\users\hernan\desktop\nuevo abm a modificar\copia - clientes\parcial-1_laboratorio\electrodomesticos.c
 	"ELECTRODOMESTICOS.h"
 	"REPARACION.h"
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 
-1603410373 c:\users\hernan\desktop\nuevo abm a modificar\copia - clientes\parcial-1_laboratorio\electrodomesticos.h
+1603411630 c:\users\hernan\desktop\nuevo abm a modificar\copia - clientes\parcial-1_laboratorio\electrodomesticos.h
 
 1603407976 c:\users\hernan\desktop\nuevo abm a modificar\copia - clientes\parcial-1_laboratorio\reparacion.h
 
-1603409590 source:c:\users\hernan\desktop\nuevo abm a modificar\copia - clientes\parcial-1_laboratorio\main.c
+1603411730 source:c:\users\hernan\desktop\nuevo abm a modificar\copia - clientes\parcial-1_laboratorio\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	"REPARACION.h"
 	"ELECTRODOMESTICOS.h"
 	"repElectroService.h"
+	"informes.h"
 
 1603379563 c:\users\hernan\desktop\nuevo abm a modificar\copia - clientes\parcial-1_laboratorio\repelectroservice.h
 
@@ -140,4 +141,12 @@
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
+
+1603412467 c:\users\hernan\desktop\nuevo abm a modificar\copia - clientes\parcial-1_laboratorio\informes.h
+
+1603412827 source:c:\users\hernan\desktop\nuevo abm a modificar\copia - clientes\parcial-1_laboratorio\informes.c
+	"ELECTRODOMESTICOS.h"
+	"REPARACION.h"
+	<stdio.h>
+	<stdlib.h>
 

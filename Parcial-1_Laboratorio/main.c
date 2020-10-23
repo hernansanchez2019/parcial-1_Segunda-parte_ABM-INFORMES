@@ -4,6 +4,7 @@
 #include "REPARACION.h"
 #include "ELECTRODOMESTICOS.h"
 #include "repElectroService.h"
+#include "informes.h"
 #define TAM 10
 #define LIBRE 0
 #define OCUPADO 1
@@ -167,7 +168,7 @@ InicializarEstado(aparato,TAM);
 
         case 9:
             system("cls");
-            menuInformes(aparato,TAM,listaMarca,TAM);
+            menuInformes(aparato,TAM,listaMarca,TAM,arreglos,TAM,service,TAM);
             break;
 
         }
